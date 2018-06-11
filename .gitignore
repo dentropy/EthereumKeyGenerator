@@ -65,3 +65,11 @@ typings/
 
 # Serverless directories
 .serverless
+
+#Ether.js is stable therefore packack-lock.json is not needed
+package-lock.json
+node_modules
+
+#Don't save test files to git
+Test.json
+test.json
