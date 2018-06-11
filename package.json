@@ -1,0 +1,29 @@
+{
+  "name": "ethereumkeygenerator",
+  "version": "0.0.1",
+  "description": "Generate as many keys as reasonable from a mnemonic phrase",
+  "main": "GenerateKeyPairs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mullinat/EthereumKeyGenerator.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ethers",
+    "ethers.js",
+    "bip32",
+    "bip39"
+  ],
+  "author": "Paul Mullins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mullinat/EthereumKeyGenerator/issues"
+  },
+  "homepage": "https://github.com/mullinat/EthereumKeyGenerator#readme",
+  "dependencies": {
+    "ethers": "^3.0.21"
+  }
+}
